@@ -1,5 +1,7 @@
-diffusers
-transformers
+# PyTorch: install first (see README). On Mac/CPU: pip install torch torchvision
+torch>=2.1
+diffusers>=0.27
+transformers>=4.40
 accelerate
 safetensors
 pandas
@@ -9,3 +11,4 @@ scikit-learn
 pycocotools
 tqdm
 jupyter
+ipykernel
