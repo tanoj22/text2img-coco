@@ -1,0 +1,15 @@
+data/raw/
+data/*.zip
+data/val2017/
+data/annotations/
+data/processed/
+outputs/*.png
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+.vscode/
+models/
+*.safetensors
+*.bin
