@@ -16,7 +16,7 @@ Stable Diffusion 1.5 with the CLIP ViT-L/14 text encoder.
 |--------|-----------------|------|-------|
 | A (name TBD) | @username-a | Data: download, stratified sampling, cleaning, resize, subset.csv | `src/data.py` |
 | B (name TBD) | @username-b | Embedding and environment | `src/embed.py`, `notebooks/baseline_embedding.ipynb`, `requirements.txt` |
-| C (name TBD) | @username-c | Tests | `notebooks/tests.ipynb` |
+| C (Raymond Wang) | @rwang1237 | Tests | `notebooks/tests.ipynb` |
 | D (name TBD) | @username-d | Generation and report | `src/generate.py`, `report/` |
 
 ## Setup (Anaconda)
