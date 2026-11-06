@@ -1,0 +1,21 @@
+image_id,file_name,processed_path,caption,category,supercategory
+139,000000000139.jpg,data/processed/000000000139.jpg,a woman standing in a kitchen by a window,microwave,appliance
+632,000000000632.jpg,data/processed/000000000632.jpg,"bedroom scene with a bookcase, blue comforter and window",chair,furniture
+872,000000000872.jpg,data/processed/000000000872.jpg,two baseball players are playing baseball on a field,baseball glove,sports
+1268,000000001268.jpg,data/processed/000000001268.jpg,the woman is taking a photo of the white goose next to the river,bird,animal
+1490,000000001490.jpg,data/processed/000000001490.jpg,"black and white of a person wearing a wetsuit standing on a surfboard and holding out a paddle, in a large body of water outside",surfboard,sports
+1675,000000001675.jpg,data/processed/000000001675.jpg,the large cat is resting comfortably behind the laptop screen,keyboard,electronic
+1761,000000001761.jpg,data/processed/000000001761.jpg,two jets are flying over a bridge and some water,airplane,vehicle
+2006,000000002006.jpg,data/processed/000000002006.jpg,a big purple public bus called south tyne,tie,accessory
+2149,000000002149.jpg,data/processed/000000002149.jpg,a white bowl of green granny smith apples,apple,food
+2157,000000002157.jpg,data/processed/000000002157.jpg,a table topped with a cake covered in berries next to a plate of sandwiches,dining table,furniture
+2473,000000002473.jpg,data/processed/000000002473.jpg,a person in skis flies in the air from doing a trick,skis,sports
+2685,000000002685.jpg,data/processed/000000002685.jpg,many people line up to taste some wine,wine glass,kitchen
+3501,000000003501.jpg,data/processed/000000003501.jpg,the meal in the bowl has rice and broccoli in it,broccoli,food
+4795,000000004795.jpg,data/processed/000000004795.jpg,a cat sitting in front of a computer monitor,tv,electronic
+5001,000000005001.jpg,data/processed/000000005001.jpg,a group of people cutting a ribbon on a street,scissors,indoor
+5037,000000005037.jpg,data/processed/000000005037.jpg,a bus is traveling down the city street,bus,vehicle
+5992,000000005992.jpg,data/processed/000000005992.jpg,a small group of sheep standing together next to a building,sheep,animal
+6763,000000006763.jpg,data/processed/000000006763.jpg,a happy man and woman pose for a picture,tie,accessory
+6894,000000006894.jpg,data/processed/000000006894.jpg,a man is playing with an elephant in a field,elephant,animal
+7386,000000007386.jpg,data/processed/000000007386.jpg,a tricycle sits outside of a garage,dog,animal
