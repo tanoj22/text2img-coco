@@ -28,6 +28,8 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
 pip install -r requirements.txt
 ```
 
+Install PyTorch with the command above **before** `pip install -r requirements.txt`. Otherwise pip installs the CPU-only build to satisfy `torch>=2.1`. On Mac or a CPU-only machine, use `pip install torch torchvision` instead.
+
 ## Data Download
 
 Download:
@@ -39,7 +41,7 @@ Unzip both into `data/`.
 
 ## Git Workflow
 
-- Each member works on their own branch: `a-data`, `b-embed`, `c-tests`, `d-generate`.
+- Each member works on their own branch named `yourname-<role>`: `tanoj-data` (A), `yourname-embed` (B), `yourname-tests` (C), `yourname-generate` (D).
 - Open a pull request into `main` when your work is ready.
 - Commit from your own GitHub account.
 - Never commit raw data or model weights.
