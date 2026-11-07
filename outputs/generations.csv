@@ -1,0 +1,6 @@
+image_id,category,supercategory,caption,seed,steps,guidance_scale,device,seconds,nsfw_flagged,real_path,generated_path
+546626,bottle,kitchen,"a cellphone, piece of fruit and cup are on the table",42,25,7.5,cpu,572.68,False,data\processed\000000546626.jpg,outputs\546626_gen.png
+109313,remote,electronic,a man holding a tv remote and wii controller,43,25,7.5,cpu,560.5,True,data\processed\000000109313.jpg,outputs\109313_gen.png
+386210,apple,food,the fruits are all in a container in the window,44,25,7.5,cpu,566.68,False,data\processed\000000386210.jpg,outputs\386210_gen.png
+270705,bird,animal,a large bird perched on top of a stick near a window,45,25,7.5,cpu,603.73,False,data\processed\000000270705.jpg,outputs\270705_gen.png
+376284,fire hydrant,outdoor,fire hydrant on city street with several parked cars,46,25,7.5,cpu,669.71,False,data\processed\000000376284.jpg,outputs\376284_gen.png
