@@ -1,7 +1,8 @@
 # PyTorch: install first (see README). On Mac/CPU: pip install torch torchvision
 torch>=2.1
 diffusers>=0.27
-transformers>=4.40
+transformers>=4.40,<5
+torchmetrics
 accelerate
 safetensors
 pandas
