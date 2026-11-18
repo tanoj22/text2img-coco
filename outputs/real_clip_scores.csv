@@ -1,0 +1,11 @@
+prompt_id,image_id,prompt,category,real_image_path,clip_score
+p01,270705,a large bird perched on top of a stick near a window,bird,data/processed/000000270705.jpg,31.410194396972656
+p02,479099,a far away bench covers all the distant serenity of a beautiful flower garden,bench,data/processed/000000479099.jpg,27.762306213378906
+p03,20107,a rusted fire hydrant sits off to the side,fire hydrant,data/processed/000000020107.jpg,32.843868255615234
+p04,111036,an old oven left outside in the garbage,oven,data/processed/000000111036.jpg,31.851587295532227
+p05,433515,colorful kite being flown in a city park land,kite,data/processed/000000433515.jpg,40.14159393310547
+p06,532071,a big black bear laying in the grass surrounded by trees,bear,data/processed/000000532071.jpg,32.95417404174805
+p07,452122,an airplane flying in the air during the day,airplane,data/processed/000000452122.jpg,26.568735122680664
+p08,181969,a small brown dog curled up in sleep,dog,data/processed/000000181969.jpg,35.07309341430664
+p09,179265,a bright yellow bus stops to take on passengers,bus,data/processed/000000179265.jpg,33.249176025390625
+p10,325306,a young zebra grooms its self in the sun,zebra,data/processed/000000325306.jpg,33.15489959716797
