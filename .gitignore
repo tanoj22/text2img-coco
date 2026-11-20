@@ -3,7 +3,7 @@ data/*.zip
 data/val2017/
 data/annotations/
 data/processed/
-outputs/*.png
+outputs/**/*.png
 *.pt
 __pycache__/
 .ipynb_checkpoints/
