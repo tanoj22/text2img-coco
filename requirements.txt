@@ -10,6 +10,7 @@ pillow
 matplotlib
 scikit-learn
 pycocotools
+reportlab
 tqdm
 jupyter
 ipykernel
