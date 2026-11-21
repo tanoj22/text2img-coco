@@ -1,0 +1,151 @@
+sweep,prompt_id,prompt,seed,scheduler,steps,spacing,cfg,time_sec,clip_score,image_path,device
+cfg,p01,a large bird perched on top of a stick near a window,42,ddim,30,leading,1.0,2.364,25.136,outputs/ddim_s30_leading_cfg1.0/p01.png,cuda
+cfg,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,30,leading,1.0,2.111,30.709,outputs/ddim_s30_leading_cfg1.0/p02.png,cuda
+cfg,p03,a rusted fire hydrant sits off to the side,42,ddim,30,leading,1.0,1.955,25.352,outputs/ddim_s30_leading_cfg1.0/p03.png,cuda
+cfg,p04,an old oven left outside in the garbage,42,ddim,30,leading,1.0,1.76,20.825,outputs/ddim_s30_leading_cfg1.0/p04.png,cuda
+cfg,p05,colorful kite being flown in a city park land,42,ddim,30,leading,1.0,1.764,26.584,outputs/ddim_s30_leading_cfg1.0/p05.png,cuda
+cfg,p06,a big black bear laying in the grass surrounded by trees,42,ddim,30,leading,1.0,1.715,24.407,outputs/ddim_s30_leading_cfg1.0/p06.png,cuda
+cfg,p07,an airplane flying in the air during the day,42,ddim,30,leading,1.0,1.765,23.262,outputs/ddim_s30_leading_cfg1.0/p07.png,cuda
+cfg,p08,a small brown dog curled up in sleep,42,ddim,30,leading,1.0,1.765,28.378,outputs/ddim_s30_leading_cfg1.0/p08.png,cuda
+cfg,p09,a bright yellow bus stops to take on passengers,42,ddim,30,leading,1.0,1.76,28.649,outputs/ddim_s30_leading_cfg1.0/p09.png,cuda
+cfg,p10,a young zebra grooms its self in the sun,42,ddim,30,leading,1.0,1.748,30.702,outputs/ddim_s30_leading_cfg1.0/p10.png,cuda
+cfg,p01,a large bird perched on top of a stick near a window,42,ddim,30,leading,4.0,2.42,30.451,outputs/ddim_s30_leading_cfg4.0/p01.png,cuda
+cfg,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,30,leading,4.0,2.452,35.225,outputs/ddim_s30_leading_cfg4.0/p02.png,cuda
+cfg,p03,a rusted fire hydrant sits off to the side,42,ddim,30,leading,4.0,2.356,30.905,outputs/ddim_s30_leading_cfg4.0/p03.png,cuda
+cfg,p04,an old oven left outside in the garbage,42,ddim,30,leading,4.0,2.383,30.458,outputs/ddim_s30_leading_cfg4.0/p04.png,cuda
+cfg,p05,colorful kite being flown in a city park land,42,ddim,30,leading,4.0,2.401,37.667,outputs/ddim_s30_leading_cfg4.0/p05.png,cuda
+cfg,p06,a big black bear laying in the grass surrounded by trees,42,ddim,30,leading,4.0,2.488,32.363,outputs/ddim_s30_leading_cfg4.0/p06.png,cuda
+cfg,p07,an airplane flying in the air during the day,42,ddim,30,leading,4.0,2.397,25.08,outputs/ddim_s30_leading_cfg4.0/p07.png,cuda
+cfg,p08,a small brown dog curled up in sleep,42,ddim,30,leading,4.0,2.497,31.26,outputs/ddim_s30_leading_cfg4.0/p08.png,cuda
+cfg,p09,a bright yellow bus stops to take on passengers,42,ddim,30,leading,4.0,2.519,28.118,outputs/ddim_s30_leading_cfg4.0/p09.png,cuda
+cfg,p10,a young zebra grooms its self in the sun,42,ddim,30,leading,4.0,2.667,31.108,outputs/ddim_s30_leading_cfg4.0/p10.png,cuda
+cfg,p01,a large bird perched on top of a stick near a window,42,ddim,30,leading,7.5,2.419,30.265,outputs/ddim_s30_leading_cfg7.5/p01.png,cuda
+cfg,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,30,leading,7.5,2.692,34.937,outputs/ddim_s30_leading_cfg7.5/p02.png,cuda
+cfg,p03,a rusted fire hydrant sits off to the side,42,ddim,30,leading,7.5,2.6,31.101,outputs/ddim_s30_leading_cfg7.5/p03.png,cuda
+cfg,p04,an old oven left outside in the garbage,42,ddim,30,leading,7.5,2.439,32.186,outputs/ddim_s30_leading_cfg7.5/p04.png,cuda
+cfg,p05,colorful kite being flown in a city park land,42,ddim,30,leading,7.5,2.478,35.406,outputs/ddim_s30_leading_cfg7.5/p05.png,cuda
+cfg,p06,a big black bear laying in the grass surrounded by trees,42,ddim,30,leading,7.5,2.505,34.317,outputs/ddim_s30_leading_cfg7.5/p06.png,cuda
+cfg,p07,an airplane flying in the air during the day,42,ddim,30,leading,7.5,2.493,25.579,outputs/ddim_s30_leading_cfg7.5/p07.png,cuda
+cfg,p08,a small brown dog curled up in sleep,42,ddim,30,leading,7.5,2.521,27.899,outputs/ddim_s30_leading_cfg7.5/p08.png,cuda
+cfg,p09,a bright yellow bus stops to take on passengers,42,ddim,30,leading,7.5,2.513,30.205,outputs/ddim_s30_leading_cfg7.5/p09.png,cuda
+cfg,p10,a young zebra grooms its self in the sun,42,ddim,30,leading,7.5,2.469,31.082,outputs/ddim_s30_leading_cfg7.5/p10.png,cuda
+cfg,p01,a large bird perched on top of a stick near a window,42,ddim,30,leading,12.0,2.465,31.398,outputs/ddim_s30_leading_cfg12.0/p01.png,cuda
+cfg,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,30,leading,12.0,2.675,36.743,outputs/ddim_s30_leading_cfg12.0/p02.png,cuda
+cfg,p03,a rusted fire hydrant sits off to the side,42,ddim,30,leading,12.0,2.773,31.652,outputs/ddim_s30_leading_cfg12.0/p03.png,cuda
+cfg,p04,an old oven left outside in the garbage,42,ddim,30,leading,12.0,2.491,35.274,outputs/ddim_s30_leading_cfg12.0/p04.png,cuda
+cfg,p05,colorful kite being flown in a city park land,42,ddim,30,leading,12.0,2.521,37.507,outputs/ddim_s30_leading_cfg12.0/p05.png,cuda
+cfg,p06,a big black bear laying in the grass surrounded by trees,42,ddim,30,leading,12.0,2.523,35.981,outputs/ddim_s30_leading_cfg12.0/p06.png,cuda
+cfg,p07,an airplane flying in the air during the day,42,ddim,30,leading,12.0,2.476,25.113,outputs/ddim_s30_leading_cfg12.0/p07.png,cuda
+cfg,p08,a small brown dog curled up in sleep,42,ddim,30,leading,12.0,2.503,29.962,outputs/ddim_s30_leading_cfg12.0/p08.png,cuda
+cfg,p09,a bright yellow bus stops to take on passengers,42,ddim,30,leading,12.0,2.471,29.835,outputs/ddim_s30_leading_cfg12.0/p09.png,cuda
+cfg,p10,a young zebra grooms its self in the sun,42,ddim,30,leading,12.0,2.44,30.738,outputs/ddim_s30_leading_cfg12.0/p10.png,cuda
+schedule,p01,a large bird perched on top of a stick near a window,42,ddim,20,leading,7.5,12.131,34.647,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,20,leading,7.5,12.314,36.586,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,ddim,20,leading,7.5,12.379,29.777,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,ddim,20,leading,7.5,12.511,34.51,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,ddim,20,leading,7.5,12.651,35.742,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,ddim,20,leading,7.5,12.616,35.14,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,ddim,20,leading,7.5,12.861,28.769,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,ddim,20,leading,7.5,12.974,33.303,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,ddim,20,leading,7.5,12.857,31.101,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,ddim,20,leading,7.5,12.924,29.622,outputs/schedule_mps/ddim_s20_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,ddim,30,leading,7.5,18.908,33.738,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,30,leading,7.5,18.992,36.77,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,ddim,30,leading,7.5,18.992,29.826,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,ddim,30,leading,7.5,18.998,30.057,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,ddim,30,leading,7.5,20.462,36.261,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,ddim,30,leading,7.5,19.984,35.209,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,ddim,30,leading,7.5,18.787,27.854,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,ddim,30,leading,7.5,18.85,32.927,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,ddim,30,leading,7.5,18.642,31.018,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,ddim,30,leading,7.5,18.694,29.185,outputs/schedule_mps/ddim_s30_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,ddim,50,leading,7.5,30.779,34.254,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,50,leading,7.5,30.753,37.272,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,ddim,50,leading,7.5,30.735,30.517,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,ddim,50,leading,7.5,30.655,32.915,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,ddim,50,leading,7.5,30.712,36.498,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,ddim,50,leading,7.5,31.062,35.485,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,ddim,50,leading,7.5,30.869,29.906,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,ddim,50,leading,7.5,30.776,32.994,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,ddim,50,leading,7.5,30.771,31.503,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,ddim,50,leading,7.5,31.449,29.516,outputs/schedule_mps/ddim_s50_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,euler,20,leading,7.5,13.726,34.683,outputs/schedule_mps/euler_s20_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,euler,20,leading,7.5,12.792,36.618,outputs/schedule_mps/euler_s20_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,euler,20,leading,7.5,12.832,29.855,outputs/schedule_mps/euler_s20_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,euler,20,leading,7.5,12.677,34.107,outputs/schedule_mps/euler_s20_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,euler,20,leading,7.5,12.79,35.654,outputs/schedule_mps/euler_s20_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,euler,20,leading,7.5,12.712,35.441,outputs/schedule_mps/euler_s20_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,euler,20,leading,7.5,12.654,28.852,outputs/schedule_mps/euler_s20_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,euler,20,leading,7.5,12.645,33.353,outputs/schedule_mps/euler_s20_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,euler,20,leading,7.5,12.805,30.981,outputs/schedule_mps/euler_s20_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,euler,20,leading,7.5,13.16,29.327,outputs/schedule_mps/euler_s20_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,euler,30,leading,7.5,18.932,33.983,outputs/schedule_mps/euler_s30_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,euler,30,leading,7.5,18.853,36.978,outputs/schedule_mps/euler_s30_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,euler,30,leading,7.5,19.744,29.868,outputs/schedule_mps/euler_s30_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,euler,30,leading,7.5,19.196,30.116,outputs/schedule_mps/euler_s30_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,euler,30,leading,7.5,19.354,36.349,outputs/schedule_mps/euler_s30_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,euler,30,leading,7.5,19.33,35.669,outputs/schedule_mps/euler_s30_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,euler,30,leading,7.5,19.027,27.764,outputs/schedule_mps/euler_s30_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,euler,30,leading,7.5,18.983,32.984,outputs/schedule_mps/euler_s30_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,euler,30,leading,7.5,19.047,31.1,outputs/schedule_mps/euler_s30_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,euler,30,leading,7.5,18.262,29.081,outputs/schedule_mps/euler_s30_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,euler,50,leading,7.5,30.48,33.99,outputs/schedule_mps/euler_s50_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,euler,50,leading,7.5,29.941,37.237,outputs/schedule_mps/euler_s50_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,euler,50,leading,7.5,29.644,30.177,outputs/schedule_mps/euler_s50_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,euler,50,leading,7.5,29.513,32.932,outputs/schedule_mps/euler_s50_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,euler,50,leading,7.5,29.192,36.321,outputs/schedule_mps/euler_s50_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,euler,50,leading,7.5,29.234,35.662,outputs/schedule_mps/euler_s50_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,euler,50,leading,7.5,29.16,29.811,outputs/schedule_mps/euler_s50_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,euler,50,leading,7.5,29.317,32.953,outputs/schedule_mps/euler_s50_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,euler,50,leading,7.5,29.153,31.479,outputs/schedule_mps/euler_s50_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,euler,50,leading,7.5,28.815,29.232,outputs/schedule_mps/euler_s50_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,dpmpp_karras,20,leading,7.5,11.997,33.64,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,dpmpp_karras,20,leading,7.5,11.94,37.472,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,dpmpp_karras,20,leading,7.5,12.113,30.009,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,dpmpp_karras,20,leading,7.5,12.388,33.696,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,dpmpp_karras,20,leading,7.5,12.22,33.525,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,dpmpp_karras,20,leading,7.5,12.191,36.013,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,dpmpp_karras,20,leading,7.5,12.151,29.049,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,dpmpp_karras,20,leading,7.5,11.935,32.968,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,dpmpp_karras,20,leading,7.5,11.869,30.254,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,dpmpp_karras,20,leading,7.5,11.919,29.154,outputs/schedule_mps/dpmpp_karras_s20_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,dpmpp_karras,30,leading,7.5,17.701,33.26,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,dpmpp_karras,30,leading,7.5,17.553,37.11,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,dpmpp_karras,30,leading,7.5,17.706,29.49,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,dpmpp_karras,30,leading,7.5,17.673,35.614,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,dpmpp_karras,30,leading,7.5,17.665,35.006,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,dpmpp_karras,30,leading,7.5,17.501,36.082,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,dpmpp_karras,30,leading,7.5,17.347,29.212,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,dpmpp_karras,30,leading,7.5,17.342,33.616,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,dpmpp_karras,30,leading,7.5,17.351,31.295,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,dpmpp_karras,30,leading,7.5,17.533,30.111,outputs/schedule_mps/dpmpp_karras_s30_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,dpmpp_karras,50,leading,7.5,28.896,33.478,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,dpmpp_karras,50,leading,7.5,28.913,37.346,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,dpmpp_karras,50,leading,7.5,28.45,29.634,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,dpmpp_karras,50,leading,7.5,28.288,34.879,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,dpmpp_karras,50,leading,7.5,28.029,34.52,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,dpmpp_karras,50,leading,7.5,28.192,34.585,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,dpmpp_karras,50,leading,7.5,28.275,29.672,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,dpmpp_karras,50,leading,7.5,28.207,33.049,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,dpmpp_karras,50,leading,7.5,28.294,31.348,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,dpmpp_karras,50,leading,7.5,28.261,29.68,outputs/schedule_mps/dpmpp_karras_s50_leading_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,ddim,30,trailing,7.5,17.336,34.169,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,30,trailing,7.5,17.316,37.668,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,ddim,30,trailing,7.5,17.361,30.299,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,ddim,30,trailing,7.5,17.431,32.461,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,ddim,30,trailing,7.5,17.434,36.68,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,ddim,30,trailing,7.5,17.507,35.694,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,ddim,30,trailing,7.5,17.383,29.833,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,ddim,30,trailing,7.5,17.414,33.927,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,ddim,30,trailing,7.5,17.367,31.392,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,ddim,30,trailing,7.5,17.381,30.058,outputs/schedule_mps/ddim_s30_trailing_cfg7.5/p10.png,mps
+schedule,p01,a large bird perched on top of a stick near a window,42,ddim,30,linspace,7.5,17.536,34.648,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p01.png,mps
+schedule,p02,a far away bench covers all the distant serenity of a beautiful flower garden,42,ddim,30,linspace,7.5,17.377,37.363,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p02.png,mps
+schedule,p03,a rusted fire hydrant sits off to the side,42,ddim,30,linspace,7.5,17.355,31.553,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p03.png,mps
+schedule,p04,an old oven left outside in the garbage,42,ddim,30,linspace,7.5,17.271,32.591,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p04.png,mps
+schedule,p05,colorful kite being flown in a city park land,42,ddim,30,linspace,7.5,17.418,36.813,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p05.png,mps
+schedule,p06,a big black bear laying in the grass surrounded by trees,42,ddim,30,linspace,7.5,17.316,34.94,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p06.png,mps
+schedule,p07,an airplane flying in the air during the day,42,ddim,30,linspace,7.5,17.363,29.094,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p07.png,mps
+schedule,p08,a small brown dog curled up in sleep,42,ddim,30,linspace,7.5,17.391,33.543,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p08.png,mps
+schedule,p09,a bright yellow bus stops to take on passengers,42,ddim,30,linspace,7.5,17.347,30.691,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p09.png,mps
+schedule,p10,a young zebra grooms its self in the sun,42,ddim,30,linspace,7.5,17.676,30.582,outputs/schedule_mps/ddim_s30_linspace_cfg7.5/p10.png,mps
