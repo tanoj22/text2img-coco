@@ -1,0 +1,12 @@
+scheduler,steps,spacing,clip_mean,clip_std,time_mean,sec_per_step,n,vs_real
+ddim,20,leading,32.92,2.854,12.622,0.631,10,0.42
+ddim,30,leading,32.284,3.142,19.131,0.638,10,-0.216
+ddim,50,leading,33.086,2.755,30.856,0.617,10,0.586
+euler,20,leading,32.887,2.883,12.879,0.644,10,0.387
+euler,30,leading,32.389,3.265,19.073,0.636,10,-0.111
+euler,50,leading,32.979,2.823,29.445,0.589,10,0.479
+dpmpp_karras,20,leading,32.578,2.894,12.072,0.604,10,0.078
+dpmpp_karras,30,leading,33.08,2.897,17.537,0.585,10,0.58
+dpmpp_karras,50,leading,32.819,2.652,28.38,0.568,10,0.319
+ddim,30,linspace,33.182,2.763,17.405,0.58,10,0.682
+ddim,30,trailing,33.218,2.852,17.393,0.58,10,0.718

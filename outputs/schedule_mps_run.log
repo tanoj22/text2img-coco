@@ -1,0 +1,127 @@
+2026-11-20 22:05:05  ======================================================================
+2026-11-20 22:05:05  sweep=schedule prompts=10 configs=11 seed=42
+2026-11-20 22:05:05  device=mps dtype=float16 machine=arm64 torch=2.14.1 diffusers=0.35.2 transformers=4.57.6
+2026-11-20 22:05:07  loaded stable-diffusion-v1-5/stable-diffusion-v1-5 in 2.3s
+2026-11-20 22:05:20  [        ddim s20 leading  cfg7.5] p01  12.13s  0.607s/step
+2026-11-20 22:05:32  [        ddim s20 leading  cfg7.5] p02  12.31s  0.616s/step
+2026-11-20 22:05:45  [        ddim s20 leading  cfg7.5] p03  12.38s  0.619s/step
+2026-11-20 22:05:57  [        ddim s20 leading  cfg7.5] p04  12.51s  0.626s/step
+2026-11-20 22:06:10  [        ddim s20 leading  cfg7.5] p05  12.65s  0.633s/step
+2026-11-20 22:06:22  [        ddim s20 leading  cfg7.5] p06  12.62s  0.631s/step
+2026-11-20 22:06:35  [        ddim s20 leading  cfg7.5] p07  12.86s  0.643s/step
+2026-11-20 22:06:48  [        ddim s20 leading  cfg7.5] p08  12.97s  0.649s/step
+2026-11-20 22:07:01  [        ddim s20 leading  cfg7.5] p09  12.86s  0.643s/step
+2026-11-20 22:07:14  [        ddim s20 leading  cfg7.5] p10  12.92s  0.646s/step
+2026-11-20 22:07:14  [        ddim s20 leading  cfg7.5] config done: 10 images, mean 12.62s/image
+2026-11-20 22:07:33  [        ddim s30 leading  cfg7.5] p01  18.91s  0.630s/step
+2026-11-20 22:07:52  [        ddim s30 leading  cfg7.5] p02  18.99s  0.633s/step
+2026-11-20 22:08:11  [        ddim s30 leading  cfg7.5] p03  18.99s  0.633s/step
+2026-11-20 22:08:30  [        ddim s30 leading  cfg7.5] p04  19.00s  0.633s/step
+2026-11-20 22:08:51  [        ddim s30 leading  cfg7.5] p05  20.46s  0.682s/step
+2026-11-20 22:09:11  [        ddim s30 leading  cfg7.5] p06  19.98s  0.666s/step
+2026-11-20 22:09:29  [        ddim s30 leading  cfg7.5] p07  18.79s  0.626s/step
+2026-11-20 22:09:48  [        ddim s30 leading  cfg7.5] p08  18.85s  0.628s/step
+2026-11-20 22:10:07  [        ddim s30 leading  cfg7.5] p09  18.64s  0.621s/step
+2026-11-20 22:10:26  [        ddim s30 leading  cfg7.5] p10  18.69s  0.623s/step
+2026-11-20 22:10:26  [        ddim s30 leading  cfg7.5] config done: 10 images, mean 19.13s/image
+2026-11-20 22:10:56  [        ddim s50 leading  cfg7.5] p01  30.78s  0.616s/step
+2026-11-20 22:11:27  [        ddim s50 leading  cfg7.5] p02  30.75s  0.615s/step
+2026-11-20 22:11:58  [        ddim s50 leading  cfg7.5] p03  30.74s  0.615s/step
+2026-11-20 22:12:29  [        ddim s50 leading  cfg7.5] p04  30.66s  0.613s/step
+2026-11-20 22:12:59  [        ddim s50 leading  cfg7.5] p05  30.71s  0.614s/step
+2026-11-20 22:13:31  [        ddim s50 leading  cfg7.5] p06  31.06s  0.621s/step
+2026-11-20 22:14:01  [        ddim s50 leading  cfg7.5] p07  30.87s  0.617s/step
+2026-11-20 22:14:32  [        ddim s50 leading  cfg7.5] p08  30.78s  0.616s/step
+2026-11-20 22:15:03  [        ddim s50 leading  cfg7.5] p09  30.77s  0.615s/step
+2026-11-20 22:15:35  [        ddim s50 leading  cfg7.5] p10  31.45s  0.629s/step
+2026-11-20 22:15:35  [        ddim s50 leading  cfg7.5] config done: 10 images, mean 30.86s/image
+2026-11-20 22:15:48  [       euler s20 leading  cfg7.5] p01  13.73s  0.686s/step
+2026-11-20 22:16:01  [       euler s20 leading  cfg7.5] p02  12.79s  0.640s/step
+2026-11-20 22:16:14  [       euler s20 leading  cfg7.5] p03  12.83s  0.642s/step
+2026-11-20 22:16:27  [       euler s20 leading  cfg7.5] p04  12.68s  0.634s/step
+2026-11-20 22:16:40  [       euler s20 leading  cfg7.5] p05  12.79s  0.640s/step
+2026-11-20 22:16:52  [       euler s20 leading  cfg7.5] p06  12.71s  0.636s/step
+2026-11-20 22:17:05  [       euler s20 leading  cfg7.5] p07  12.65s  0.633s/step
+2026-11-20 22:17:18  [       euler s20 leading  cfg7.5] p08  12.65s  0.632s/step
+2026-11-20 22:17:30  [       euler s20 leading  cfg7.5] p09  12.80s  0.640s/step
+2026-11-20 22:17:44  [       euler s20 leading  cfg7.5] p10  13.16s  0.658s/step
+2026-11-20 22:17:44  [       euler s20 leading  cfg7.5] config done: 10 images, mean 12.88s/image
+2026-11-20 22:18:03  [       euler s30 leading  cfg7.5] p01  18.93s  0.631s/step
+2026-11-20 22:18:21  [       euler s30 leading  cfg7.5] p02  18.85s  0.628s/step
+2026-11-20 22:18:41  [       euler s30 leading  cfg7.5] p03  19.74s  0.658s/step
+2026-11-20 22:19:00  [       euler s30 leading  cfg7.5] p04  19.20s  0.640s/step
+2026-11-20 22:19:20  [       euler s30 leading  cfg7.5] p05  19.35s  0.645s/step
+2026-11-20 22:19:39  [       euler s30 leading  cfg7.5] p06  19.33s  0.644s/step
+2026-11-20 22:19:58  [       euler s30 leading  cfg7.5] p07  19.03s  0.634s/step
+2026-11-20 22:20:17  [       euler s30 leading  cfg7.5] p08  18.98s  0.633s/step
+2026-11-20 22:20:36  [       euler s30 leading  cfg7.5] p09  19.05s  0.635s/step
+2026-11-20 22:20:55  [       euler s30 leading  cfg7.5] p10  18.26s  0.609s/step
+2026-11-20 22:20:55  [       euler s30 leading  cfg7.5] config done: 10 images, mean 19.07s/image
+2026-11-20 22:21:25  [       euler s50 leading  cfg7.5] p01  30.48s  0.610s/step
+2026-11-20 22:21:55  [       euler s50 leading  cfg7.5] p02  29.94s  0.599s/step
+2026-11-20 22:22:25  [       euler s50 leading  cfg7.5] p03  29.64s  0.593s/step
+2026-11-20 22:22:54  [       euler s50 leading  cfg7.5] p04  29.51s  0.590s/step
+2026-11-20 22:23:24  [       euler s50 leading  cfg7.5] p05  29.19s  0.584s/step
+2026-11-20 22:23:53  [       euler s50 leading  cfg7.5] p06  29.23s  0.585s/step
+2026-11-20 22:24:22  [       euler s50 leading  cfg7.5] p07  29.16s  0.583s/step
+2026-11-20 22:24:51  [       euler s50 leading  cfg7.5] p08  29.32s  0.586s/step
+2026-11-20 22:25:21  [       euler s50 leading  cfg7.5] p09  29.15s  0.583s/step
+2026-11-20 22:25:49  [       euler s50 leading  cfg7.5] p10  28.82s  0.576s/step
+2026-11-20 22:25:49  [       euler s50 leading  cfg7.5] config done: 10 images, mean 29.45s/image
+2026-11-20 22:26:01  [dpmpp_karras s20 leading  cfg7.5] p01  12.00s  0.600s/step
+2026-11-20 22:26:13  [dpmpp_karras s20 leading  cfg7.5] p02  11.94s  0.597s/step
+2026-11-20 22:26:25  [dpmpp_karras s20 leading  cfg7.5] p03  12.11s  0.606s/step
+2026-11-20 22:26:38  [dpmpp_karras s20 leading  cfg7.5] p04  12.39s  0.619s/step
+2026-11-20 22:26:50  [dpmpp_karras s20 leading  cfg7.5] p05  12.22s  0.611s/step
+2026-11-20 22:27:02  [dpmpp_karras s20 leading  cfg7.5] p06  12.19s  0.610s/step
+2026-11-20 22:27:15  [dpmpp_karras s20 leading  cfg7.5] p07  12.15s  0.608s/step
+2026-11-20 22:27:26  [dpmpp_karras s20 leading  cfg7.5] p08  11.93s  0.597s/step
+2026-11-20 22:27:38  [dpmpp_karras s20 leading  cfg7.5] p09  11.87s  0.593s/step
+2026-11-20 22:27:50  [dpmpp_karras s20 leading  cfg7.5] p10  11.92s  0.596s/step
+2026-11-20 22:27:50  [dpmpp_karras s20 leading  cfg7.5] config done: 10 images, mean 12.07s/image
+2026-11-20 22:28:08  [dpmpp_karras s30 leading  cfg7.5] p01  17.70s  0.590s/step
+2026-11-20 22:28:26  [dpmpp_karras s30 leading  cfg7.5] p02  17.55s  0.585s/step
+2026-11-20 22:28:43  [dpmpp_karras s30 leading  cfg7.5] p03  17.71s  0.590s/step
+2026-11-20 22:29:01  [dpmpp_karras s30 leading  cfg7.5] p04  17.67s  0.589s/step
+2026-11-20 22:29:19  [dpmpp_karras s30 leading  cfg7.5] p05  17.66s  0.589s/step
+2026-11-20 22:29:36  [dpmpp_karras s30 leading  cfg7.5] p06  17.50s  0.583s/step
+2026-11-20 22:29:54  [dpmpp_karras s30 leading  cfg7.5] p07  17.35s  0.578s/step
+2026-11-20 22:30:11  [dpmpp_karras s30 leading  cfg7.5] p08  17.34s  0.578s/step
+2026-11-20 22:30:28  [dpmpp_karras s30 leading  cfg7.5] p09  17.35s  0.578s/step
+2026-11-20 22:30:46  [dpmpp_karras s30 leading  cfg7.5] p10  17.53s  0.584s/step
+2026-11-20 22:30:46  [dpmpp_karras s30 leading  cfg7.5] config done: 10 images, mean 17.54s/image
+2026-11-20 22:31:15  [dpmpp_karras s50 leading  cfg7.5] p01  28.90s  0.578s/step
+2026-11-20 22:31:44  [dpmpp_karras s50 leading  cfg7.5] p02  28.91s  0.578s/step
+2026-11-20 22:32:12  [dpmpp_karras s50 leading  cfg7.5] p03  28.45s  0.569s/step
+2026-11-20 22:32:41  [dpmpp_karras s50 leading  cfg7.5] p04  28.29s  0.566s/step
+2026-11-20 22:33:09  [dpmpp_karras s50 leading  cfg7.5] p05  28.03s  0.561s/step
+2026-11-20 22:33:37  [dpmpp_karras s50 leading  cfg7.5] p06  28.19s  0.564s/step
+2026-11-20 22:34:05  [dpmpp_karras s50 leading  cfg7.5] p07  28.27s  0.565s/step
+2026-11-20 22:34:33  [dpmpp_karras s50 leading  cfg7.5] p08  28.21s  0.564s/step
+2026-11-20 22:35:02  [dpmpp_karras s50 leading  cfg7.5] p09  28.29s  0.566s/step
+2026-11-20 22:35:30  [dpmpp_karras s50 leading  cfg7.5] p10  28.26s  0.565s/step
+2026-11-20 22:35:30  [dpmpp_karras s50 leading  cfg7.5] config done: 10 images, mean 28.38s/image
+2026-11-20 22:35:47  [        ddim s30 trailing cfg7.5] p01  17.34s  0.578s/step
+2026-11-20 22:36:05  [        ddim s30 trailing cfg7.5] p02  17.32s  0.577s/step
+2026-11-20 22:36:22  [        ddim s30 trailing cfg7.5] p03  17.36s  0.579s/step
+2026-11-20 22:36:39  [        ddim s30 trailing cfg7.5] p04  17.43s  0.581s/step
+2026-11-20 22:36:57  [        ddim s30 trailing cfg7.5] p05  17.43s  0.581s/step
+2026-11-20 22:37:14  [        ddim s30 trailing cfg7.5] p06  17.51s  0.584s/step
+2026-11-20 22:37:32  [        ddim s30 trailing cfg7.5] p07  17.38s  0.579s/step
+2026-11-20 22:37:49  [        ddim s30 trailing cfg7.5] p08  17.41s  0.580s/step
+2026-11-20 22:38:07  [        ddim s30 trailing cfg7.5] p09  17.37s  0.579s/step
+2026-11-20 22:38:24  [        ddim s30 trailing cfg7.5] p10  17.38s  0.579s/step
+2026-11-20 22:38:24  [        ddim s30 trailing cfg7.5] config done: 10 images, mean 17.39s/image
+2026-11-20 22:38:42  [        ddim s30 linspace cfg7.5] p01  17.54s  0.585s/step
+2026-11-20 22:38:59  [        ddim s30 linspace cfg7.5] p02  17.38s  0.579s/step
+2026-11-20 22:39:16  [        ddim s30 linspace cfg7.5] p03  17.36s  0.579s/step
+2026-11-20 22:39:34  [        ddim s30 linspace cfg7.5] p04  17.27s  0.576s/step
+2026-11-20 22:39:51  [        ddim s30 linspace cfg7.5] p05  17.42s  0.581s/step
+2026-11-20 22:40:08  [        ddim s30 linspace cfg7.5] p06  17.32s  0.577s/step
+2026-11-20 22:40:26  [        ddim s30 linspace cfg7.5] p07  17.36s  0.579s/step
+2026-11-20 22:40:43  [        ddim s30 linspace cfg7.5] p08  17.39s  0.580s/step
+2026-11-20 22:41:01  [        ddim s30 linspace cfg7.5] p09  17.35s  0.578s/step
+2026-11-20 22:41:18  [        ddim s30 linspace cfg7.5] p10  17.68s  0.589s/step
+2026-11-20 22:41:18  [        ddim s30 linspace cfg7.5] config done: 10 images, mean 17.41s/image
+2026-11-20 22:41:18  generation done in 36.1 min. log: outputs/schedule_mps_log.csv
+2026-11-20 22:43:06  CLIP-scored 110 rows in 10.2s (mean 32.86)
